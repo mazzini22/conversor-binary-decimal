@@ -1,2 +1,2 @@
-# conversor-binary-decimal
-A simple conversor from binary (of 7 digits) to decimal number
+# Binary to decimal converter
+A simple 8-bit converter from binary to decimal number
